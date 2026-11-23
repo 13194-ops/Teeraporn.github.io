@@ -1,13 +1,13 @@
 <HTML>
 <HEAD>
-<METAcharset=windows-874>
-<TITLE>การเชื่องโยงเว็ฐเพจภายในเว็บไซต์</TITLE>
+<META charset=windows-874>
+<TITLE>การเชื่องโยงเว็บเพจภายในเว็บไซต์</TITLE>
 </HEAD>
 <BODY>
     แบบฝึกหัดเรื่องการจัดการเว็บเพจ<BR>
-<A HREF="ex1 .hyml'target=_blank>การใช้คำสั่ง HN</A><BR>
-<A HREF="ex2 .hyml'target=_parent>การใช้คำสั่ง BR</A><BR>
-<A HREF="ex3 .hyml'target=_self>การใช้คำสั่ง P</A><BR>
-<A HREF="ex4 .hyml'target=_top>การใช้คำสั่ง P</A><BR>
+<A HREF="ex1 .hyml"target=_blank>การใช้คำสั่ง HN</A><BR>
+<A HREF="ex2 .hyml"target=_parent>การใช้คำสั่ง BR</A><BR>
+<A HREF="ex3 .hyml"target=_self>การใช้คำสั่ง P</A><BR>
+<A HREF="ex4 .hyml"target=_top>การใช้คำสั่ง P</A><BR>
 </BODY>
 </HTML>
